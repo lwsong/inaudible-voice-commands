@@ -1,7 +1,7 @@
 # inaudible-voice-commands
 
 ## About
-Corresponding code to the paper "Inaudible Voice Commands" https://arxiv.org/abs/1708.07238
+Corresponding code to the paper "Inaudible Voice Commands" https://arxiv.org/abs/1708.07238 \
 To generate your own attack ultrasound file, follow "ultrasound_attack.m"
 
 ## Performance
