@@ -1,4 +1,3 @@
-clear;
 %fill in the path of normal audio file.
 voice_file = '';
 
